@@ -1,1 +1,0 @@
-print("विकसित होते रहो - with love from Himachal,India")
