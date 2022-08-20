@@ -12,7 +12,7 @@ You create a folder in /KeepDevolving and name it using your GitHub username!
 
 For example, KeepDevolving/RealOkita
 
-Then create a file called KeepDevolving.ext3 (By .ext3 it can be .ext4, .f2fs, .erofs, .squashfs and much more!) then type KeepEvolving in your countries' language!
+Then create a file called KeepDevolving.ext3 (By .ext3 it can be .ext4, .f2fs, .erofs, .squashfs and much more!) then type KeepDevolving in your countries' language!
 
 ~~ Example ~~
 KeepDevolving.ext4
